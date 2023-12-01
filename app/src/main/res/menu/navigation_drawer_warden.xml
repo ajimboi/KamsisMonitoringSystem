@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_outing"
+            android:icon="@drawable/baseline_source_24"
+            android:title="Outing Report"/>
+
+        <item
+            android:id="@+id/nav_hospitality"
+            android:icon="@drawable/baseline_circle_notifications_24"
+            android:title="Hospitality Report"/>
+
+        <item
+            android:id="@+id/nav_warden"
+            android:icon="@drawable/baseline_table_chart_24"
+            android:title="Warden Schedule"/>
+    </group>
+</menu>
+

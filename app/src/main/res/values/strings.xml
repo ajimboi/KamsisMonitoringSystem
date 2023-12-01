@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Kamsis Monitoring Pro</string>
+
+    <!--login form string-->
+    <string name="MatrixNumber">Enter Matrix Number</string>
+    <string name="IdNumber">Enter ID Number</string>
+    <string name="Password">Enter Your Password</string>
+
+    <!--register form string-->
+    <string name="FullName">Enter Your Full Name</string>
+    <string name="PhoneNumber">Enter Your Phone Number</string>
+
+    <!--table outingExit warden string-->
+    <string name="col1">Category</string>
+    <string name="col2">Name</string>
+    <string name="col3">No.Matrics</string>
+    <string name="col4">Date</string>
+    <string name="col5">Time</string>
+    <string name="col6">Details</string>
+    <string name="row1Category">Outing</string>
+    <string name="row1Name">Qash</string>
+    <string name="row1No.Matrics">01DDT21F2030</string>
+    <string name="row1Date">20/10/2023</string>
+    <string name="row1Time">9:00</string>
+    <string name="row1Details">Exit</string>
+    <string name="row2Category">Bermalam</string>
+    <string name="row2Name">Aqil</string>
+    <string name="row2No.Matrics">01DDT21F2016</string>
+    <string name="row2Date">23/11/2023</string>
+    <string name="row2Time">9:00</string>
+    <string name="row2Details">Exit</string>
+    <string name="row3Category">Outing</string>
+    <string name="row3Name">Zaki</string>
+    <string name="row3No.Matrics">01DDT21F2006</string>
+    <string name="row3Date">20/10/2023</string>
+    <string name="row3Time">9:00</string>
+    <string name="row3Details">Enter</string>
+
+    <!--table hospitality warden string-->
+    <string name="colM1">Name</string>
+    <string name="colM2">No.Matrics</string>
+    <string name="colM3">Date</string>
+    <string name="colM4">Time</string>
+    <string name="colM5">Reason</string>
+    <string name="colM6">Hospital/clinic Name</string>
+    <string name="colM7">Details</string>
+    <string name="rowM1Name">Qash</string>
+    <string name="rowM1No.Matrics">01DDT21F2030</string>
+    <string name="rowM1Date">20/10/2023</string>
+    <string name="rowM1Time">12:00</string>
+    <string name="rowM1Reason">Demam</string>
+    <string name="rowM1WHC">Clinic Alpha</string>
+    <string name="rowM1Details">Exit</string>
+    <string name="rowM2Name">Aqil</string>
+    <string name="rowM2No.Matrics">01DDT21F2016</string>
+    <string name="rowM2Date">12/10/2023</string>
+    <string name="rowM2Time">22:00</string>
+    <string name="rowM2Reason">Sakit kepala</string>
+    <string name="rowM2WHC">Clinic Alpha</string>
+    <string name="rowM2Details">Exit</string>
+    <string name="rowM3Name">Zaki</string>
+    <string name="rowM3No.Matrics">01DDT21F2006</string>
+    <string name="rowM3Date">14/10/2023</string>
+    <string name="rowM3Time">14:00</string>
+    <string name="rowM3Reason">batuk</string>
+    <string name="rowM3WHC">Clinic Alpha</string>
+    <string name="rowM3Details">Enter</string>
+
+    <!--navigation drawer-->
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!--outingExit form-->
+    <string-array name="options_array">
+        <item>Outing</item>
+        <item>Bermalam</item>
+        <item>Lain-lain</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

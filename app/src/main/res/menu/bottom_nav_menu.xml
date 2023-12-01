@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_Form"
+        android:icon="@drawable/baseline_assignment_24"
+        android:title="Form" />
+    <item
+        android:id="@+id/bottom_WardenSchedule"
+        android:icon="@drawable/baseline_table_chart_24"
+        android:title="Warden Schedule" />
+    <item
+        android:id="@+id/bottom_Notification"
+        android:icon="@drawable/baseline_circle_notifications_24"
+        android:title="Notification" />
+</menu>

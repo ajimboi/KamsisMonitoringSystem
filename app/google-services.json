@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904853669663",
+    "project_id": "kamsis-monitoring-pro-c15d4",
+    "storage_bucket": "kamsis-monitoring-pro-c15d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904853669663:android:005e05f2eee673442d122a",
+        "android_client_info": {
+          "package_name": "com.example.kamsismonitoringpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevbF3IaA9Mkv7XOEdNkcuHVak5Axxnfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
